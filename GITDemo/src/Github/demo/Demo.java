@@ -17,12 +17,12 @@ public class Demo {
 		System.out.println("Method m3");
 	}
 
-	public void m3()
+	public void m4()
 	{
 		System.out.println("Method m3");
 	}
 
-	public void m5()
+	public void m6()
 	{
 		System.out.println(" method m5");
 	}
