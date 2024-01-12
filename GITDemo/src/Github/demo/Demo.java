@@ -21,7 +21,11 @@ public class Demo {
 	{
 		System.out.println("Method m3");
 	}
-	
+
+	public void m5()
+	{
+		System.out.println(" method m5");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("github demo");
